@@ -3,7 +3,7 @@
 #include <Adafruit_SSD1306.h>
 #include "BluetoothSerial.h" // Include the BluetoothSerial library
 
-int touchpin = 27;
+int touchpin = 4;
 
 #define SCREEN_WIDTH 128
 #define SCREEN_HEIGHT 64
