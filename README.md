@@ -1,6 +1,5 @@
 # vnit
 This app receives serial data from esp32 via bluetooth and plots it on mobile phone.
-A new Flutter project.
 
 ## Getting Started
 
