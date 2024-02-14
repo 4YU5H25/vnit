@@ -2,7 +2,6 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bluetooth_serial/flutter_bluetooth_serial.dart';
-import 'package:vnit/chartscreen.dart';
 import 'package:vnit/sync_chart.dart';
 import 'bluetooth.dart';
 

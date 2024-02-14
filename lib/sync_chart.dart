@@ -54,7 +54,7 @@ class _SyncState extends State<Sync> {
                     majorGridLines: MajorGridLines(width: 0),
                     edgeLabelPlacement: EdgeLabelPlacement.shift,
                     interval: 3,
-                    title: AxisTitle(text: 'Time')),
+                    title: AxisTitle(text: 'Time(sec/200)')),
                 primaryYAxis: NumericAxis(
                     axisLine: AxisLine(width: 0),
                     majorTickLines: MajorTickLines(size: 0),
