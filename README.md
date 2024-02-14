@@ -1,4 +1,4 @@
-# vnit
+# Bluetooth Receiver and Plotter
 This app receives serial data from esp32 via bluetooth and plots it on mobile phone.
 
 ## Getting Started
